@@ -18,7 +18,8 @@ MGameS is a [moddroid](https://moddroid.com/) games scraper programmed using Jav
 
  1. Recommend NodeJS version is 12 or above.
  2. If you still can't understand it, here is the Example: https://mgamesv.herokuapp.com/Minecraft.
- 3. MGameS [demo](https://mgamesv.herokuapp.com/).
+ 3. Use - as whitespace.
+ 4. MGameS [demo](https://mgamesv.herokuapp.com/).
 
 # Maintainer
 
