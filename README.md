@@ -22,7 +22,7 @@ MGameS is a [moddroid](https://moddroid.com/) games scraper programmed using Jav
  4. MGameS [demo](https://mgamesv.herokuapp.com/).
 
 # Dependancies
- 1.https://www.npmjs.com/package/express
+ 1.https://www.npmjs.com/package/express<br />
  2.https://www.npmjs.com/package/request
 
 # Maintainer
